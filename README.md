@@ -1,4 +1,4 @@
-# Hi there 👋, I'm David
+# Hi there 👋, I'm Muhammad Dawood 
 
 ## 🚀 About Me
 I'm a Software Engineering student and a passionate developer who enjoys building software, learning new technologies, and solving programming problems.
@@ -52,15 +52,15 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadDawood-1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDawood-1&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadDawood-1&theme=tokyonight)
 
 ---
 
