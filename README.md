@@ -66,7 +66,7 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/MuhammadDawood-1
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - Portfolio: :https://www.workwithdawood.com/
 
