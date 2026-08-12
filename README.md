@@ -64,7 +64,7 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/MuhammadDawood-1
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
@@ -72,10 +72,10 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 
 ---
 
-## 💡 Quote
+##  Quote
 
 > "The best way to learn programming is by building real projects."
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
