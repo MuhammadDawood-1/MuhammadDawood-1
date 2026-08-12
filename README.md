@@ -55,15 +55,15 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 
 ---
 
+
 ## 📈 GitHub Stats
 
-![Muhammad Dawood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadDawood-1&show_icons=true&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=MuhammadDawood-1&show_icons=true&hide_border=true)
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadDawood-1&hide_border=true)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MuhammadDawood-1)
 
 ---
 
