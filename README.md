@@ -1,6 +1,7 @@
-# Hi there 👋, I'm Muhammad Dawood 
+# Hi there 👋, I'm Muhammad Dawood
 
 ## 🚀 About Me
+
 I'm a Software Engineering student and a passionate developer who enjoys building software, learning new technologies, and solving programming problems.
 
 - 🎓 BS Software Engineering Student
@@ -14,6 +15,7 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 ## 🛠️ Tech Stack
 
 ### Languages
+
 - Python
 - C++
 - JavaScript
@@ -21,15 +23,18 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 - CSS3
 
 ### Frameworks & Libraries
+
 - React.js
 - Django
 - Bootstrap
 
 ### Databases
+
 - MySQL
 - SQLite
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
@@ -52,30 +57,28 @@ I'm a Software Engineering student and a passionate developer who enjoys buildin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadDawood-1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDawood-1&layout=compact&theme=tokyonight)
+![Muhammad Dawood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadDawood-1&show_icons=true&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadDawood-1&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadDawood-1&hide_border=true)
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
-- GitHub: https://github.com/MuhammadDawood-1
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: :https://www.workwithdawood.com/
+- GitHub: [MuhammadDawood-1](https://github.com/MuhammadDawood-1)
+- LinkedIn: [Muhammad Dawood](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- Portfolio: [WorkWithDawood](https://www.workwithdawood.com/)
 
 ---
 
-##  Quote
+## 💬 Quote
 
 > "The best way to learn programming is by building real projects."
 
 ---
 
- Thanks for visiting my profile!
+Thanks for visiting my profile! 🚀
