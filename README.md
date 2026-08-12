@@ -1,95 +1,134 @@
-<div align="center">
-  <img src="banner.svg" width="100%" alt="terminal banner" />
-</div>
+# Hi there 👋, I'm Muhammad Dawood
 
-<br/>
+### Software Engineering Student | Python Developer | Freelancer 🚀
 
-```
-$ cat about.md
-```
+Welcome to my GitHub profile! I'm passionate about **software engineering, programming, problem-solving, and building practical projects**. I enjoy continuously learning new technologies and improving my skills through hands-on development.
 
-I'm Dawood — a student who learns best by breaking things and figuring out why.
-No polished origin story, no "10x developer" arc. Just someone who opens a
-blank file, gets curious, and follows it until something works.
+---
 
-⬅️ **EDIT**: rewrite the paragraph above in your own words. This is the one
-part of the whole profile that should sound like nobody but you — two or
-three honest sentences beat any generated bio.
+## 👨‍💻 About Me
 
-<br/>
+* 🎓 **BS Software Engineering Student**
+* 💼 **Freelancer & Developer**
+* 🐍 Currently focused on **Python and Advanced Python**
+* 🌱 Exploring **Databases, Backend Development, Cloud Computing, and AI**
+* 🧠 Interested in solving real-world problems through technology
+* 🔭 Building projects to strengthen my programming and software development skills
+* 📚 Always learning, practicing, and improving
 
-```
-$ cat currently.yaml
-```
+> **"The best way to learn programming is to build, break, debug, and build again."**
 
-<table>
-<tr><td>
+---
 
-```yaml
-studying:   ⬅️ your degree / field
-learning:   ⬅️ the thing you're mid-way through right now
-building:   ⬅️ a project you're actually working on
-stuck_on:   ⬅️ something you haven't figured out yet (this is the honest one)
-next_goal:  ⬅️ one concrete thing, not "get better at coding"
-```
+## 🚀 What I'm Currently Working On
 
-</td></tr>
-</table>
-
-<br/>
-
-```
-$ ls skills/
+```text
+🐍 Advanced Python Development
+🧩 Object-Oriented Programming (OOP)
+🗄️ Databases & SQL
+⚙️ Backend Development
+📁 Building Python Projects
+🧠 Improving Problem-Solving Skills
+☁️ Exploring Cloud Computing
+🤖 Learning about AI & Automation
 ```
 
-Instead of an icon wall, here's what I actually reach for and why:
+---
 
-| area | tools | comfort |
-|---|---|---|
-| ⬅️ e.g. `core` | ⬅️ Python, JS | ⬅️ "can build with it" |
-| ⬅️ e.g. `web` | ⬅️ HTML/CSS, React | ⬅️ "learning, not fluent" |
-| ⬅️ e.g. `tools` | ⬅️ Git, VS Code | ⬅️ "daily driver" |
-| ⬅️ e.g. `exploring` | ⬅️ pick one | ⬅️ "curious, not confident yet" |
+## 🛠️ Languages & Tools
 
-> Delete the honesty filter if you want, but "learning, not fluent" reads a lot
-> more credible to anyone reviewing your profile than a row of maxed-out badges.
+### 💻 Programming Languages
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
+</p>
 
-```
-$ git log --oneline --graph
-```
+### 🌐 Web & Backend Development
 
-* ⬅️ `[repo-name]` — one line on what it does and why you built it, not what tech it uses
-* ⬅️ `[repo-name]` — same idea; the *why* is what makes it memorable
-* ⬅️ `[repo-name]` — if it's unfinished, say so — "still working on X" is more real than silence
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,wordpress" />
+</p>
 
-Link each repo name to the actual GitHub URL, e.g. `[repo-name](https://github.com/MuhammadDawood-1/repo-name)`.
+### 🗄️ Databases & Development Tools
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker" />
+</p>
 
-```
-$ cat philosophy.txt
-```
+---
 
-⬅️ One or two lines that sound like you — a principle you code by, a thing
-you tell yourself when stuck, or just how you think about learning. This is
-the line people remember after they close the tab.
+## 📚 My Current Learning Journey
 
-<br/>
-
-<div align="center">
-
-```
-$ contact --open-to collaboration,questions,feedback
+```text
+Python Fundamentals          ████████████████████ 100%
+Data Structures & Logic      ██████████████████░░  90%
+Object-Oriented Programming  ███████████████░░░░░  75%
+Advanced Python              ████████████░░░░░░░░  60%
+Databases & SQL              ██████████░░░░░░░░░░  50%
+Backend Development          ████████░░░░░░░░░░░░  40%
+Cloud Computing              ████░░░░░░░░░░░░░░░░  20%
+AI & Automation              ███░░░░░░░░░░░░░░░░░  15%
 ```
 
-⬅️ [email](mailto:you@example.com) · ⬅️ [linkedin](https://linkedin.com/in/you) · ⬅️ [twitter](https://twitter.com/you)
+> 🚀 **Currently focused on strengthening my Python foundations and progressing toward backend development, cloud technologies, and AI.**
 
-</div>
+---
 
-<br/>
+## 📊 GitHub Statistics
 
-<div align="center">
-  <sub>if you made it this far — thanks for actually reading, not just skimming badges</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadDawood-1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDawood-1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadDawood-1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/MuhammadDawood-1/MuhammadDawood-1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 💡 What I Believe
+
+```python
+while True:
+    learn()
+    practice()
+    build()
+    make_mistakes()
+    debug()
+    improve()
+```
+
+**Consistency > Motivation**
+
+Every project, error, and challenge is an opportunity to become a better developer. 🚀
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/MuhammadDawood-1">
+    <img src="https://img.shields.io/badge/GitHub-MuhammadDawood--1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code. Learn. Build. Improve. Repeat. 🚀</b>
+  <br/><br/>
+  ⭐ <b>Feel free to explore my repositories and follow my journey!</b>
+</p>
