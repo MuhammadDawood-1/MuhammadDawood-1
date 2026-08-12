@@ -1,38 +1,95 @@
-<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#131a24"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3fb950"/>
-      <stop offset="50%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#bc8cff"/>
-    </linearGradient>
-  </defs>
+<div align="center">
+  <img src="banner.svg" width="100%" alt="terminal banner" />
+</div>
 
-  <!-- window -->
-  <rect x="2" y="2" width="896" height="256" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
-  <rect x="2" y="2" width="896" height="256" rx="14" fill="none" stroke="url(#glow)" stroke-width="1" opacity="0.35"/>
+<br/>
 
-  <!-- title bar -->
-  <rect x="2" y="2" width="896" height="34" rx="14" fill="#161b22"/>
-  <rect x="2" y="20" width="896" height="16" fill="#161b22"/>
-  <circle cx="26" cy="19" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="19" r="6" fill="#27c93f"/>
-  <text x="450" y="24" font-family="SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e" text-anchor="middle">dawood@github: ~</text>
+```
+$ cat about.md
+```
 
-  <!-- terminal body -->
-  <text font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="16" fill="#c9d1d9">
-    <tspan x="28" y="70"><tspan fill="#3fb950">dawood@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan> whoami</tspan>
-    <tspan x="28" y="100" fill="#e6edf3">Muhammad Dawood — student, builder, permanently mid-tutorial</tspan>
+I'm Dawood — a student who learns best by breaking things and figuring out why.
+No polished origin story, no "10x developer" arc. Just someone who opens a
+blank file, gets curious, and follows it until something works.
 
-    <tspan x="28" y="140"><tspan fill="#3fb950">dawood@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan> status --current</tspan>
-    <tspan x="28" y="170" fill="#e6edf3">learning fast, shipping slow, breaking things on purpose</tspan>
+⬅️ **EDIT**: rewrite the paragraph above in your own words. This is the one
+part of the whole profile that should sound like nobody but you — two or
+three honest sentences beat any generated bio.
 
-    <tspan x="28" y="210"><tspan fill="#3fb950">dawood@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#e6edf3">_</tspan>
-      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
-    </tspan>
-  </text>
-</svg>
+<br/>
+
+```
+$ cat currently.yaml
+```
+
+<table>
+<tr><td>
+
+```yaml
+studying:   ⬅️ your degree / field
+learning:   ⬅️ the thing you're mid-way through right now
+building:   ⬅️ a project you're actually working on
+stuck_on:   ⬅️ something you haven't figured out yet (this is the honest one)
+next_goal:  ⬅️ one concrete thing, not "get better at coding"
+```
+
+</td></tr>
+</table>
+
+<br/>
+
+```
+$ ls skills/
+```
+
+Instead of an icon wall, here's what I actually reach for and why:
+
+| area | tools | comfort |
+|---|---|---|
+| ⬅️ e.g. `core` | ⬅️ Python, JS | ⬅️ "can build with it" |
+| ⬅️ e.g. `web` | ⬅️ HTML/CSS, React | ⬅️ "learning, not fluent" |
+| ⬅️ e.g. `tools` | ⬅️ Git, VS Code | ⬅️ "daily driver" |
+| ⬅️ e.g. `exploring` | ⬅️ pick one | ⬅️ "curious, not confident yet" |
+
+> Delete the honesty filter if you want, but "learning, not fluent" reads a lot
+> more credible to anyone reviewing your profile than a row of maxed-out badges.
+
+<br/>
+
+```
+$ git log --oneline --graph
+```
+
+* ⬅️ `[repo-name]` — one line on what it does and why you built it, not what tech it uses
+* ⬅️ `[repo-name]` — same idea; the *why* is what makes it memorable
+* ⬅️ `[repo-name]` — if it's unfinished, say so — "still working on X" is more real than silence
+
+Link each repo name to the actual GitHub URL, e.g. `[repo-name](https://github.com/MuhammadDawood-1/repo-name)`.
+
+<br/>
+
+```
+$ cat philosophy.txt
+```
+
+⬅️ One or two lines that sound like you — a principle you code by, a thing
+you tell yourself when stuck, or just how you think about learning. This is
+the line people remember after they close the tab.
+
+<br/>
+
+<div align="center">
+
+```
+$ contact --open-to collaboration,questions,feedback
+```
+
+⬅️ [email](mailto:you@example.com) · ⬅️ [linkedin](https://linkedin.com/in/you) · ⬅️ [twitter](https://twitter.com/you)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>if you made it this far — thanks for actually reading, not just skimming badges</sub>
+</div>
