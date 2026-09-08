@@ -126,7 +126,6 @@ Every project, error, and challenge is an opportunity to become a better develop
 </p>
 
 ---
-
 <p align="center">
   <b>💻 Code. Learn. Build. Improve. Repeat. 🚀</b>
   <br/><br/>
