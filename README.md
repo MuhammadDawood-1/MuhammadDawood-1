@@ -1,76 +1,111 @@
-# Hi there 👋, I'm Muhammad Dawood
+# Hi, I'm Muhammad Dawood 👋
 
-### Software Engineering Student | Python Developer | Freelancer 🚀
+### Software Engineering Student · Python Developer · Freelancer
 
-Welcome to my GitHub profile! I'm passionate about **software engineering, programming, problem-solving, and building practical projects**. I enjoy continuously learning new technologies and improving my skills through hands-on development.
+I'm a **Software Engineering student and freelance developer** focused on building practical software solutions and continuously improving my engineering skills.
+
+My current focus is **Python, backend development, databases, and software engineering**, with a long-term goal of working with **cloud technologies, AI, and automation**.
+
+I believe the best way to become a better developer is to **build real projects, solve problems, understand the fundamentals, and keep improving.**
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **BS Software Engineering Student**
-* 💼 **Freelancer & Developer**
-* 🐍 Currently focused on **Python and Advanced Python**
-* 🌱 Exploring **Databases, Backend Development, Cloud Computing, and AI**
-* 🧠 Interested in solving real-world problems through technology
-* 🔭 Building projects to strengthen my programming and software development skills
-* 📚 Always learning, practicing, and improving
-
-> **"The best way to learn programming is to build, break, debug, and build again."**
-
----
-
-## 🚀 What I'm Currently Working On
-
-```text
-🐍 Advanced Python Development
-🧩 Object-Oriented Programming (OOP)
-🗄️ Databases & SQL
-⚙️ Backend Development
-📁 Building Python Projects
-🧠 Improving Problem-Solving Skills
-☁️ Exploring Cloud Computing
-🤖 Learning about AI & Automation
-```
+* 🎓 BS Software Engineering Student
+* 💼 Freelancer & Software Developer
+* 🐍 Focused on **Python & Backend Development**
+* 🧩 Practicing **Object-Oriented Programming & Data Structures**
+* 🗄️ Learning **Databases & SQL**
+* ⚙️ Exploring **Django & REST API Development**
+* ☁️ Interested in **Cloud Computing**
+* 🤖 Exploring **AI & Automation**
+* 🚀 Building practical projects to strengthen my software engineering skills
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
 </p>
 
-### 🌐 Web & Backend Development
+### Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,wordpress" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,react,html,css,wordpress" />
 </p>
 
-### 🗄️ Databases & Development Tools
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
 
 ---
 
-## 📚 My Current Learning Journey
+## 🚀 Current Focus
 
 ```text
-Python Fundamentals          ████████████████████ 100%
-Data Structures & Logic      ██████████████████░░  90%
-Object-Oriented Programming  ███████████████░░░░░  75%
-Advanced Python              ████████████░░░░░░░░  60%
-Databases & SQL              ██████████░░░░░░░░░░  50%
-Backend Development          ████████░░░░░░░░░░░░  40%
-Cloud Computing              ████░░░░░░░░░░░░░░░░  20%
-AI & Automation              ███░░░░░░░░░░░░░░░░░  15%
+Python & Advanced Python
+        ↓
+Object-Oriented Programming
+        ↓
+Data Structures & Problem Solving
+        ↓
+Databases & SQL
+        ↓
+Django & REST APIs
+        ↓
+Backend Engineering
+        ↓
+Cloud Computing
+        ↓
+AI & Automation
 ```
 
-> 🚀 **Currently focused on strengthening my Python foundations and progressing toward backend development, cloud technologies, and AI.**
+I'm currently strengthening my Python and software engineering fundamentals while progressing toward professional backend development.
+
+---
+
+## 📌 What I Build
+
+I enjoy working on projects involving:
+
+* 🐍 Python applications
+* 🌐 Web applications
+* ⚙️ Backend systems & REST APIs
+* 🗄️ Database-driven applications
+* 🔐 Authentication & authorization systems
+* 🤖 Automation & AI-powered solutions
+* 🏠 Real-estate and business solutions
+* 🧩 Software engineering projects
+
+---
+
+## 📂 Featured Projects
+
+> I'm continuously building and improving projects as part of my software engineering journey.
+
+### 🐍 Python Projects
+
+Practical Python applications focused on programming fundamentals, OOP, data handling, automation, and problem solving.
+
+### 🌐 Web & Backend Projects
+
+Applications built around modern web technologies, backend architecture, databases, APIs, and authentication.
+
+### 🚀 Freelance Projects
+
+Real-world websites and digital solutions developed for businesses and clients.
 
 ---
 
@@ -91,29 +126,28 @@ AI & Automation              ███░░░░░░░░░░░░░░
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/MuhammadDawood-1/MuhammadDawood-1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/MuhammadDawood-1/MuhammadDawood-1/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
 
-## 💡 What I Believe
+## 💡 My Development Philosophy
 
 ```python
 while True:
     learn()
-    practice()
     build()
-    make_mistakes()
+    break_things()
     debug()
     improve()
 ```
 
-**Consistency > Motivation**
+> **Consistency beats motivation.**
 
-Every project, error, and challenge is an opportunity to become a better developer. 🚀
+Every project is an opportunity to learn something new, every bug is an opportunity to understand something deeper, and every challenge is an opportunity to improve.
 
 ---
 
@@ -126,8 +160,9 @@ Every project, error, and challenge is an opportunity to become a better develop
 </p>
 
 ---
+
 <p align="center">
-  <b>💻 Code. Learn. Build. Improve. Repeat. 🚀</b>
+  <b>Build. Learn. Solve. Improve. 🚀</b>
   <br/><br/>
-  ⭐ <b>Feel free to explore my repositories and follow my journey!</b>
+  <i>Thanks for visiting my profile!</i>
 </p>
