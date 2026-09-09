@@ -115,7 +115,7 @@ I enjoy understanding how systems work under the hood, solving problems, and tur
                            CLOUD COMPUTING
                                   │
                                   ▼
-                         AI & AUTOMATION
+                           AI & AUTOMATION
 ```
 
 ### Current priorities
